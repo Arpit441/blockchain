@@ -30,6 +30,8 @@ Course project for the course Blockchain Technology CS F452 under Prof. Geetha K
 
 ## Members:
 >- Chirag Gadia 2020A7PS1721H
-
+>- Vaibhav Nemani 2020A7PS2195H
+>- Arpit Gupta 2020A8PS2216H
+>- Jai Sehgal 2020A7PS20891H
 
 

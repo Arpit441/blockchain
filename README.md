@@ -34,6 +34,9 @@ Implement a land management system on a blockchain with the following features.
 - Merkle root
 - Hash of the previous block
 
+## Tech Used
+- Python 
+- 
 ## Members:
 >- Chirag Gadia 2020A7PS1721H
 >- Vaibhav Nemani 2020A7PS2195H

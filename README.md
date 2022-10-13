@@ -24,9 +24,9 @@ Course project for the course Blockchain Technology CS F452 under Prof. Geetha K
 - Timestamp of the transaction
 
 ## Block structure:
--Timestamp
--Merkle root
--Hash of the previous block
+- Timestamp
+- Merkle root
+- Hash of the previous block
 
 ## Members:
 >- Chirag Gadia 2020A7PS1721H

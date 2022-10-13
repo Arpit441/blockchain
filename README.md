@@ -16,4 +16,20 @@ Course project for the course Blockchain Technology CS F452 under Prof. Geetha K
 - Implementation of Merkle root to calculate the hash of all the transactions in a block.
 - To be able to view the transaction history that is related to a property.
 
+## Transaction structure:
+-Buyer ID/name
+-Seller ID/name
+-Property ID/name
+-Amount
+-Timestamp of the transaction
+
+## Block structure:
+-Timestamp
+-Merkle root
+-Hash of the previous block
+
+## Members:
+>- Chirag Gadia 2020A7PS1721H
+
+
 

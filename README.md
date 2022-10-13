@@ -9,6 +9,12 @@ Course project for the course Blockchain Technology CS F452 under Prof. Geetha K
 >land – to the first person. The First person goes missing, how does anyone prove who changed
 >the land record?
 
+## Solution
+
+```sh
+Implement a land management system on a blockchain with the following features.
+```
+
 ## Features
 - Register new users to the system with previously owned property
 - The user can buy and sell the property.

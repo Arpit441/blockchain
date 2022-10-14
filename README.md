@@ -33,6 +33,8 @@ Implement a land management system on a blockchain with the following features.
 - Timestamp
 - Merkle root
 - Hash of the previous block
+- Block Height
+- Hash of the Block
 
 ## Tech Used
 - Python 

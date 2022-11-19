@@ -20,10 +20,10 @@ The other attributes are self-explanatory.
 
 ## Functions used:
 
-- registerItem : registers the item 
-- buyItem: customer can buy the item 
-- isDeliveryDone: customer can set isDelivered true if the item is brought at the doorstep 
-- getItems: displays all the items 
+- registerItem() : registers the item 
+- buyItem() : customer can buy the item 
+- isDeliveryDone() : customer can set isDelivered true if the item is brought at the doorstep 
+- getItems() : displays all the items 
 
 ## Working:
 

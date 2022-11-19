@@ -31,7 +31,7 @@ Seller registers the item on the website using the registerItem function. When a
 
 ## Members:
 
-Arpit Gupta (2020A8PS2216H)
-Chirag Gadia (2020A7PS1721H)
-Jai Sehgal (2020A7PS2089H)
-Vaibhav Nemani (2020A7PS2195H)
+- Arpit Gupta (2020A8PS2216H)
+- Chirag Gadia (2020A7PS1721H)
+- Jai Sehgal (2020A7PS2089H)
+- Vaibhav Nemani (2020A7PS2195H)

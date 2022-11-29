@@ -1,5 +1,5 @@
 # LandManagementSystem
-Course project for CS F452 Blockchain Technology under Prof. Geetha Kumari
+Project for Blockchain Technology
 
 ## Problem statement
 
